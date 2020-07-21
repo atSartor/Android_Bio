@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Andrew Sartor</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Andrew Sartor.
+    \n\n\tThis is my first app for Android programmed in Kotlin.
+    I\'m using this app as a starting point to explore the features of Android Studio
+    as well as gain some rudimentary experience in application development for the Android
+    system. This endeavor was prompted by multiple openings for the Android development team
+    of Line Corporation in their Kyoto office. As I explore Android programming and become a more
+    experienced programmer in general, I hope to gain experience that will make me a more marketable
+    programmer upon my graduation from the University of Alabama in December 2020. Additionally,
+    I hope to fully explore what the Android system has to offer, as well as gain insights that
+    will change my programming methodology by exploring different technologies.
+    \n\n\tAs of today, July 7th, 2020, I have experience using Java, C, C++, Ruby, Rails, and now Kotlin
+    as I continue to complete more of these programming tutorials for Android.\n\n</string>
+</resources>
